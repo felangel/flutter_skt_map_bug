@@ -1,0 +1,15 @@
+name: skt
+description: A new flutter plugin project.
+version: 0.0.1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  plugin:
+    androidPackage: com.mobileconnected.skt
+    pluginClass: SktPlugin
